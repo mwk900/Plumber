@@ -1,0 +1,82 @@
+{
+  "business": {
+    "name": "Cresco Plumbing & Heating Nottingham",
+    "tagline": "Emergency Plumber in Nottingham — Fast Response & Fixed Pricing",
+    "subheadline": "Local, insured, and reliable. Call now or request a quote in under 60 seconds.",
+    "phone": "0115 123 4567",
+    "phoneHref": "tel:01151234567",
+    "email": "info@crescotrades.co.uk",
+    "address": "12 Market Street, Nottingham, NG1 6FG",
+    "hours": "Mon-Sat 7:00-19:00",
+    "emergency": "24/7 emergency call-outs available"
+  },
+  "services": [
+    "Emergency leaks",
+    "Boiler repair",
+    "Blocked drains",
+    "Bathroom installation",
+    "Radiators & heating",
+    "Tap and toilet repairs"
+  ],
+  "steps": [
+    "Contact us by phone or form",
+    "We confirm your time slot and fixed price",
+    "Your job is completed cleanly and professionally"
+  ],
+  "areas": [
+    "Nottingham",
+    "West Bridgford",
+    "Beeston",
+    "Arnold",
+    "Carlton",
+    "Mapperley",
+    "Long Eaton",
+    "Hucknall",
+    "Stapleford",
+    "Ruddington"
+  ],
+  "trust": [
+    "Gas Safe registered (placeholder)",
+    "NICEIC registered (placeholder)",
+    "Fully insured",
+    "12-month workmanship guarantee"
+  ],
+  "reviews": [
+    {
+      "name": "Sarah M.",
+      "location": "West Bridgford",
+      "comment": "Fast response for a leaking pipe and very tidy work. Clear pricing and no surprises.",
+      "rating": 5
+    },
+    {
+      "name": "Adam P.",
+      "location": "Beeston",
+      "comment": "Boiler repair completed same day. Friendly engineer and explained everything clearly.",
+      "rating": 5
+    },
+    {
+      "name": "Rachel T.",
+      "location": "Arnold",
+      "comment": "Great communication and arrived on time. Would definitely use Cresco again.",
+      "rating": 5
+    },
+    {
+      "name": "Daniel W.",
+      "location": "Mapperley",
+      "comment": "Bathroom plumbing sorted quickly and left spotless. Professional from start to finish.",
+      "rating": 5
+    },
+    {
+      "name": "Helen C.",
+      "location": "Long Eaton",
+      "comment": "Helpful advice and fair quote. Work was done to a high standard.",
+      "rating": 5
+    },
+    {
+      "name": "Tom B.",
+      "location": "Carlton",
+      "comment": "Emergency call-out late evening and issue fixed promptly. Highly recommended.",
+      "rating": 5
+    }
+  ]
+}
