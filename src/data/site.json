@@ -1,14 +1,14 @@
 {
   "business": {
-    "name": "Cresco Plumbing & Heating Nottingham",
-    "tagline": "Emergency Plumber in Nottingham — Fast Response & Fixed Pricing",
-    "subheadline": "Local, insured, and reliable. Call now or request a quote in under 60 seconds.",
-    "phone": "0115 123 4567",
-    "phoneHref": "tel:01151234567",
-    "email": "info@crescotrades.co.uk",
+    "name": "Cresco Plumbing & Heating",
+    "tagline": "Fast fix. Fair price. Sorted.",
+    "subheadline": "Emergency plumber and heating engineer in Nottingham. Fixed prices confirmed before work starts.",
+    "phone": "0115 000 0000",
+    "phoneHref": "tel:01150000000",
+    "email": "hello@crescoplumbing.co.uk",
     "address": "12 Market Street, Nottingham, NG1 6FG",
-    "hours": "Mon-Sat 7:00-19:00",
-    "emergency": "24/7 emergency call-outs available"
+    "hours": "Mon to Sat 7am to 7pm",
+    "emergency": "Emergency callouts 24/7"
   },
   "services": [
     "Emergency leaks",
